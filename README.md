@@ -55,3 +55,8 @@ This project bridges **raw sales data** into **strategic marketing insights** th
 ---
 
 ## 📂 Repository Structure
+
+📁 Myntra-EDA
+┣ 📜 Myntra_EDA.ipynb # Jupyter Notebook with full analysis
+┣ 📜 README.md # Project description and insights
+┗ 📜 Myntra_sales.csv # Dataset
